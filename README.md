@@ -21,7 +21,7 @@ I'm Sergio Gabriel Maqueda, i'm a full stack web developer and i'm currently liv
 * ![](https://img.shields.io/badge/Linux-🌟🌟-informational?style=Linux&logo=Linux&logoColor==blue&color=2b3c8a)
 * ![](https://img.shields.io/badge/M.Office-🌟🌟🌟-informational?style=MicrosoftOffice&logo=MicrosoftOffice&logoColor==blue&color=2b3c8a)
 
-Contact me on [![LinkedIn][2.2]][2].
+### Contact me on [![LinkedIn][2.2]][2].
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 [2]: https://www.linkedin.com/in/sergio-gabriel-maqueda-its/
