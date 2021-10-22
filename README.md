@@ -18,8 +18,13 @@ I'm Sergio Gabriel Maqueda, i'm a full stack web developer and i'm currently liv
 * ![](https://img.shields.io/badge/NodeJS-🌟🌟🌟-informational?style=Node.js&logo=Node.js&logoColor=green&color=2b3c8a)
 * ![](https://img.shields.io/badge/MySql-🌟🌟🌟-informational?style=MySQL&logo=MySQL&logoColor=blue&color=2b3c8a)
 * ![](https://img.shields.io/badge/Figma-🌟🌟🌟-informational?style=Figma&logo=Figma&logoColor==blue&color=2b3c8a)
+* ![](https://img.shields.io/badge/Linux-🌟🌟-informational?style=Linux&logo=Linux&logoColor==blue&color=2b3c8a)
+* ![](https://img.shields.io/badge/M.Office-🌟🌟🌟-informational?style=MicrosoftOffice&logo=MicrosoftOffice&logoColor==blue&color=2b3c8a)
 
+Contact me on [![LinkedIn][2.2]][2].
 
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[2]: https://www.linkedin.com/in/sergio-gabriel-maqueda-its/
 
 <!--
 **Gabriel-mq/Gabriel-mq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
