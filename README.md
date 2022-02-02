@@ -15,7 +15,7 @@ I'm Sergio Gabriel Maqueda, i'm a full stack web developer and i'm currently liv
 * ![](https://img.shields.io/badge/JavaScript-🌟🌟🌟🌟-informational?style=JavaScript&logo=JavaScript&logoColor==white&color=2b3c8a)
 * ![](https://img.shields.io/badge/CSharp-🌟🌟-informational?style=CSharp&logo=CSharp&logoColor=violet&color=2b3c8a)
 * ![](https://img.shields.io/badge/Lua-🌟🌟🌟🌟-informational?style=Lua&logo=Lua&logoColor=lightblue&color=2b3c8a)
-* ![](https://img.shields.io/badge/TypeScript-🌟🌟-informational?style=TypeScript&logo=TypeScript&logoColor=blue&color=2b3c8a)
+* ![](https://img.shields.io/badge/TypeScript-🌟🌟-informational?style=TypeScript&logo=TypeScript&logoColor=lightblue&color=2b3c8a)
 * ![](https://img.shields.io/badge/ReactJS-🌟🌟-informational?style=React&logo=React&logoColor==white&color=2b3c8a)
 * ![](https://img.shields.io/badge/NodeJS-🌟🌟🌟-informational?style=Node.js&logo=Node.js&logoColor=green&color=2b3c8a)
 * ![](https://img.shields.io/badge/MySql-🌟🌟🌟-informational?style=MySQL&logo=MySQL&logoColor=lightblue&color=2b3c8a)
