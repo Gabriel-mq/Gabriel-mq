@@ -13,13 +13,15 @@ I'm Sergio Gabriel Maqueda, i'm a full stack web developer and i'm currently liv
 * ![](https://img.shields.io/badge/HTML5-🌟🌟🌟🌟-informational?style=HTML5&logo=HTML5&logoColor==white&color=2b3c8a)
 * ![](https://img.shields.io/badge/CSS3-🌟🌟🌟🌟-informational?style=CSS3&logo=CSS3&logoColor=lightblue&color=2b3c8a)
 * ![](https://img.shields.io/badge/JavaScript-🌟🌟🌟🌟-informational?style=JavaScript&logo=JavaScript&logoColor==white&color=2b3c8a)
-* ![](https://img.shields.io/badge/CSharp-🌟🌟🌟-informational?style=CSharp&logo=CSharp&logoColor=violet&color=2b3c8a)
-* ![](https://img.shields.io/badge/ReactJS-🌟🌟🌟-informational?style=React&logo=React&logoColor==white&color=2b3c8a)
+* ![](https://img.shields.io/badge/CSharp-🌟🌟-informational?style=CSharp&logo=CSharp&logoColor=violet&color=2b3c8a)
+* ![](https://img.shields.io/badge/Lua-🌟🌟🌟🌟-informational?style=Lua&logo=Lua&logoColor=lightblue&color=2b3c8a)
+* ![](https://img.shields.io/badge/TypeScript-🌟🌟-informational?style=TypeScript&logo=TypeScript&logoColor=blue&color=2b3c8a)
+* ![](https://img.shields.io/badge/ReactJS-🌟🌟-informational?style=React&logo=React&logoColor==white&color=2b3c8a)
 * ![](https://img.shields.io/badge/NodeJS-🌟🌟🌟-informational?style=Node.js&logo=Node.js&logoColor=green&color=2b3c8a)
-* ![](https://img.shields.io/badge/MySql-🌟🌟🌟-informational?style=MySQL&logo=MySQL&logoColor=blue&color=2b3c8a)
-* ![](https://img.shields.io/badge/Figma-🌟🌟🌟-informational?style=Figma&logo=Figma&logoColor==blue&color=2b3c8a)
+* ![](https://img.shields.io/badge/MySql-🌟🌟🌟-informational?style=MySQL&logo=MySQL&logoColor=lightblue&color=2b3c8a)
+* ![](https://img.shields.io/badge/Sequelize-🌟🌟🌟-informational?style=Sequelize&logo=Sequelize&logoColor==lightblue&color=2b3c8a)
+* ![](https://img.shields.io/badge/Figma-🌟🌟🌟🌟-informational?style=Figma&logo=Figma&logoColor==blue&color=2b3c8a)
 * ![](https://img.shields.io/badge/Linux-🌟🌟-informational?style=Linux&logo=Linux&logoColor==blue&color=2b3c8a)
-* ![](https://img.shields.io/badge/M.Office-🌟🌟🌟-informational?style=MicrosoftOffice&logo=MicrosoftOffice&logoColor==blue&color=2b3c8a)
 
 ### CONTACT ME ON [![LinkedIn][2.2]][2].
 
