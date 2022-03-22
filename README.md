@@ -23,10 +23,14 @@ I'm Sergio Gabriel Maqueda, i'm a full stack web developer and i'm currently liv
 * ![](https://img.shields.io/badge/Figma-🌟🌟🌟🌟-informational?style=Figma&logo=Figma&logoColor==blue&color=2b3c8a)
 * ![](https://img.shields.io/badge/Linux-🌟🌟-informational?style=Linux&logo=Linux&logoColor==blue&color=2b3c8a)
 
+# Right now! 📕
+
 * 🔭 I’m currently working on React.Js, but I’m also interested in other technologies.
 * 🌱 I’m currently learning: Next.js.
-* 📫 How to reach me: drop me a line to gabrielmakedas@gmail.com || gabrielmqmailreceiver@gmail.com
 
+# How to reach me 📫
+
+### Drop me a line to gabrielmakedas@gmail.com || gabrielmqmailreceiver@gmail.com
 ### CONTACT ME ON [![LinkedIn][2.2]][2].
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
