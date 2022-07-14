@@ -25,7 +25,7 @@ I'm Sergio Gabriel Maqueda, i'm a full stack web developer and i'm currently liv
 
 # Right now! 📕
 
-* 🔭 I’m currently working at IntecSoft
+* 🔭 I’m currently working at IntecSoft (AR)
 
 # How to reach me 📫
 
