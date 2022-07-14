@@ -25,8 +25,7 @@ I'm Sergio Gabriel Maqueda, i'm a full stack web developer and i'm currently liv
 
 # Right now! 📕
 
-* 🔭 I’m currently working on React.Js, but I’m also interested in other technologies.
-* 🌱 I’m currently learning: Next.js.
+* 🔭 I’m currently working at IntecSoft
 
 # How to reach me 📫
 
